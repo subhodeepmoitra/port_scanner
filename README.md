@@ -7,6 +7,4 @@ pip3 install printy
 Steps to install and run
 1> git clone https://github.com/subhodeepmoitra/port_scanner.git
 2> cd port_scanner
-3>  pip3 install -r requirements.txt(for python3)
-    pip install -r requirements.txt(for python2)
-4> python3 port_scanner.py
+3> python3 port_scanner.py
